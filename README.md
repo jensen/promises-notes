@@ -1,6 +1,6 @@
 # Errors and Promises
 
-Slides and notes available at [https://github.com/jensen/promise-notes/](https://github.com/jensen/promise-notes/).
+Slides and notes available at [https://github.com/jensen/promises-notes/](https://github.com/jensen/promises-notes/).
 
 ## Synchronous Code
 
